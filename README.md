@@ -1,0 +1,3 @@
+# SI200MiniReviewTemplate
+
+SI200MiniReviewTemplate是适用于上科大SI200课程（研究生论文写作）小综述的LaTeX模板，基于自定义文档类si200-mini-review。
