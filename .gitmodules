@@ -1,0 +1,12 @@
+[submodule "si200-mini-review"]
+	path = SI200MiniReview/si200-mini-review
+	url = git@Lithium:LaTeX/SI200MiniReview.git
+	branch = master
+[submodule "minimus"]
+	path = SI200MiniReview/minimus
+	url = git@Lithium:LaTeX/Minimus.git
+	branch = master
+[submodule "makefile-latex"]
+	path = SI200MiniReview/makefile-latex
+	url = git@Lithium:LaTeX/MakefileLaTeX.git
+	branch = master
