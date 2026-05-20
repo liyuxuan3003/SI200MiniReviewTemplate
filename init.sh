@@ -6,7 +6,7 @@ set -euo pipefail
 # Config
 DIR_TEMPLATE="SI200MiniReview"
 FILE_MAIN="SI200MiniReview.tex"
-FILE_README="SI200MiniReview.md"
+FILE_README="SI200MiniReviewTemplate.md"
 
 # Usage
 usage() {

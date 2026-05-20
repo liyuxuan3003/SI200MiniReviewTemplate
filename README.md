@@ -41,7 +41,7 @@ SI200MiniReviewTemplate # The root of git repo
 |- .gitmodules
 |- init.sh
 |- README.md
-|- SI200MiniReview.md
+|- SI200MiniReviewTemplate.md
 ```
 
 请注意，根目录下仅有`.gitignore`和`README.md`等文件，代码均位于一个二级目录下！
