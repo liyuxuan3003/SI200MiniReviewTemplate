@@ -1,12 +1,12 @@
-[submodule "si200-mini-review"]
+[submodule "SI200MiniReview"]
 	path = SI200MiniReview/si200-mini-review
 	url = git@github.com:liyuxuan3003/SI200MiniReview.git
 	branch = master
-[submodule "minimus"]
+[submodule "Minimus"]
 	path = SI200MiniReview/minimus
 	url = git@github.com:liyuxuan3003/Minimus.git
 	branch = master
-[submodule "makefile-latex"]
+[submodule "MakefileLaTeX"]
 	path = SI200MiniReview/makefile-latex
 	url = git@github.com:liyuxuan3003/MakefileLaTeX.git
 	branch = master
